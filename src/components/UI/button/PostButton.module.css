@@ -1,0 +1,11 @@
+.PostBtn {
+  padding: 5px 10px;
+  margin: 5px 5px;
+  color: white;
+  background: lightblue;
+  font-size: 14px;
+  border: 1px solid cadetblue;
+  cursor: pointer;
+  border-radius: 15px;
+
+}
